@@ -1,0 +1,4 @@
+model_name,accuracy,precision,recall,f1
+baseline,0.0,0.0,0.0,0.0
+deeper,0.0,0.0,0.0,0.0
+dropout,0.0,0.0,0.0,0.0
